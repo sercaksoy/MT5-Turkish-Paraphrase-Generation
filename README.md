@@ -1,5 +1,5 @@
-# Turkish-question-paraphrase-generator
-mT5 based pre-trained model to generate question paraphrases in Turkish language.
+# MT5-Turkish-Paraphrase-Generation
+mT5 based pre-trained model to generate question paraphrases in Turkish language. You can dowload the model <a href="https://huggingface.co/secometo/mt5-base-turkish-question-paraphrase-generator">here.</a>
 
 
 ## Acknowledgement
